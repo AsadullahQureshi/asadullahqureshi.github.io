@@ -1,4 +1,4 @@
-:HL["/asadullahqureshi.github.io/_next/static/chunks/f1195dc2135dd704.css","style"]
+:HL["/asadullahqureshi.github.io/_next/static/chunks/ff6cd209a45d701e.css","style"]
 :HL["/asadullahqureshi.github.io/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/asadullahqureshi.github.io/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"FyFYd6pGHIg8Ru85731Dd","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"oFAKB4kx1YFaVY2q2T31W","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
